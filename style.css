@@ -1,0 +1,59 @@
+.heading{
+background-color: dodgerblue;
+margin-top: 0;
+color: black;
+    font-weight: bold;
+    padding: 1px;
+    border-style: solid;
+}
+
+#head {
+    font-family: fantasy;
+}
+
+#head:hover {
+    text-decoration-line: underline;
+    text-decoration-color: black;
+}
+
+#instructions{
+    margin-left: 1200px;
+    width: fit-content;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+#start{
+    width: fit-content;
+    font-size: 23px;
+    font-family: fantasy;
+    padding: 13px;
+    border-radius: 10px;
+    margin: 15px;
+    background-color:cornflowerblue;
+    color: black;
+}
+
+#start:hover{
+padding:15px;
+background-color:rgb(143, 177, 241);
+font-size: 25px;
+}
+
+#status{
+    width: fit-content;
+    font-size: 20px;
+    font-family: cursive;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 15px;
+    background-color:lightblue;
+}
+
+canvas{
+    margin-top: 300px;
+}
